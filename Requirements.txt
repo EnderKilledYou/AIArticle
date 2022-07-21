@@ -1,0 +1,4 @@
+spacy
+html2text
+textacy
+
